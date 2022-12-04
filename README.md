@@ -12,8 +12,8 @@ Drive link:https://drive.google.com/file/d/1SON5LLsiGV2QlTYbXN2-VC5zcsx01wIB/vie
 
 
 Contributors of the project : 
-BVRIT HYDERABAD College of Engineering for Women
-20WH1A0517 - Padigela Manasa
-20WH1A0519 - Gaddam Sathwika
-20WH1A0531 - Kalam Priyatha
-20WH1A0544 - B Sri Varshini
+BVRIT HYDERABAD College of Engineering for Women : 
+20WH1A0517 - Padigela Manasa,
+20WH1A0519 - Gaddam Sathwika,
+20WH1A0531 - Kalam Priyatha, 
+20WH1A0544 - B Sri Varshini.
